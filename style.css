@@ -10,13 +10,18 @@ body.cuerpo {
    background-color: #bff;
 }
 
+header img {
+   height: 128px;
+}
+
 .principal {
    display: flex;
+   justify-content: center;
 }
 .principal .photo-container {
 }
 .principal .photo {
-   height: 500px;
+   height: 440px;
 }
 
 .appBtn {
