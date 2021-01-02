@@ -6,6 +6,9 @@ body {
    margin: auto;
    text-align: center;
 }
+body.cuerpo {
+   background-color: #bff;
+}
 
 .principal {
    display: flex;
