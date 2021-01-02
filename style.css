@@ -7,8 +7,13 @@ body {
    text-align: center;
 }
 
-section img {
-	height: 500px;
+.principal {
+   display: flex;
+}
+.principal .photo-container {
+}
+.principal .photo {
+   height: 500px;
 }
 
 .appBtn {
